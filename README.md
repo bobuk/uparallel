@@ -35,4 +35,4 @@ for y in results:
 	print(y()-2, y)
 ```
 
-And don't afread to read the code, it's less than 100 lines long.
+And don't afraid to read the code, it's less than 100 lines long.
